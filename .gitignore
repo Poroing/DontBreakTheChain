@@ -1,0 +1,9 @@
+#Makefile
+Makefile
+
+#C++ Object files
+*.o
+
+#Vim Swap Files
+*.swp
+*.swo
