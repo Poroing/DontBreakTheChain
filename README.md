@@ -16,6 +16,11 @@ This program depends on `Qt5-base`.
 Install the package from the Qt website: http://www.qt.io
 or from your favorite repository.
 
+## How to use
+All you can do, is mark the selected date.
+To do so, go into `Edit` and click on `Mark Selected Date` or just simply 
+use the shortcut `M`.
+
 ## Created Files
 This application will create a file, `dates`, in the directory `$HOME/.dbtc/`.
 This file hold the dates which have been marked, if you want to reset all
